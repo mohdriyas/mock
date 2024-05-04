@@ -1,151 +1,177 @@
 {
-  "myCircle": [
+  "home": [
     {
       "id": "1",
-      "imgUrl": "https://picsum.photos/200/200"
+      "viewType": 1,
+      "data": {
+        "myCircle": [
+          {
+            "id": "1",
+            "imgUrl": "https://picsum.photos/200/200"
+          },
+          {
+            "id": "2",
+            "imgUrl": "https://picsum.photos/200/200"
+          },
+          {
+            "id": "3",
+            "imgUrl": "https://picsum.photos/200/200"
+          },
+          {
+            "id": "4",
+            "imgUrl": "https://picsum.photos/200/200"
+          },
+          {
+            "id": "5",
+            "imgUrl": "https://picsum.photos/200/200"
+          }
+        ]
+      }
     },
     {
       "id": "2",
-      "imgUrl": "https://picsum.photos/200/200"
+      "viewType": 2,
+      "data": {
+        "slides": [
+          {
+            "id": "1",
+            "title": "Prayer",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "steakDays": 5
+          },
+          {
+            "id": "2",
+            "title": "Scripture",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "steakDays": 3
+          },
+          {
+            "id": "3",
+            "title": "Gratitude",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "steakDays": 4
+          },
+          {
+            "id": "4",
+            "title": "Sermon Note",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "steakDays": 5
+          },
+          {
+            "id": "5",
+            "title": "Group",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "steakDays": 5
+          },
+          {
+            "id": "5",
+            "title": "Event",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "steakDays": 5
+          }
+        ]
+      }
     },
     {
       "id": "3",
-      "imgUrl": "https://picsum.photos/200/200"
-    },
-    {
-      "id": "4",
-      "imgUrl": "https://picsum.photos/200/200"
-    },
-    {
-      "id": "5",
-      "imgUrl": "https://picsum.photos/200/200"
-    }
-  ],
-  "slides": [
-    {
-      "id": "1",
-      "title": "Prayer",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "steakDays": 5
-    },
-    {
-      "id": "2",
-      "title": "Scripture",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "steakDays": 3
-    },
-    {
-      "id": "3",
-      "title": "Gratitude",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "steakDays": 4
-    },
-    {
-      "id": "4",
-      "title": "Sermon Note",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "steakDays": 5
-    },
-    {
-      "id": "5",
-      "title": "Group",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "steakDays": 5
-    },
-    {
-      "id": "5",
-      "title": "Event",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "steakDays": 5
-    }
-  ],
-  "feed": [
-    {
-      "id": "1",
-      "type": "Event",
-      "title": "Worship Night",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "schedule": "February 28 @ 7:00 pm - 9:00 pm"
-    },
-    {
-      "id": "2",
-      "type": "Event",
-      "title": "Summer Worship Night",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "schedule": "April 28 @ 7:00 pm - 9:00 pm"
+      "viewType": 3,
+      "data": {
+        "feed": [
+          {
+            "id": "1",
+            "type": "Event",
+            "title": "Worship Night",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "schedule": "February 28 @ 7:00 pm - 9:00 pm"
+          },
+          {
+            "id": "2",
+            "type": "Event",
+            "title": "Summer Worship Night",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "schedule": "April 28 @ 7:00 pm - 9:00 pm"
+          },
+          {
+            "id": "3",
+            "type": "Event",
+            "title": "Good Friday Night",
+            "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+            "schedule": "February 28 @ 10:00 pm - 12:00 pm"
+          }
+        ]
+      }
     },
     {
       "id": "3",
-      "type": "Event",
-      "title": "Good Friday Night",
-      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
-      "schedule": "February 28 @ 10:00 pm - 12:00 pm"
-    }
-  ],
-  "activity": [
-    {
-      "id": "1",
-      "activityType": 1,
-      "profileImg": "https://picsum.photos/200/200",
-      "name": "Tami Senner",
-      "requestType": "Group",
-      "content": {
-        "text": "O my God, I firmly believe that you are one God in three divine Persons, Father, Son, and Holy Spirit.",
-        "imgUrl": "",
-        "audioUrl": "",
-        "videoUrl": ""
-      },
-      "organisedBy": "Bike Club · Prayer Team",
-      "postedOn": "2 minutes ago",
-      "specialDate": ""
-    },
-    {
-      "id": "1",
-      "activityType": 2,
-      "profileImg": "https://picsum.photos/200/200",
-      "name": "Tami Senner",
-      "requestType": "Person",
-      "content": {
-        "text": "",
-        "imgUrl": "",
-        "audioUrl": "https://dl.espressif.com/dl/audio/ff-16b-2c-44100hz.mp3",
-        "videoUrl": ""
-      },
-      "organisedBy": "Bike Club · Prayer Team",
-      "postedOn": "5 hours ago",
-      "specialDate": ""
-    },
-    {
-      "id": "1",
-      "activityType": 3,
-      "profileImg": "https://picsum.photos/200/200",
-      "name": "Ricardo S.",
-      "requestType": "",
-      "content": {
-        "text": "",
-        "imgUrl": "",
-        "audioUrl": "",
-        "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
-      },
-      "organisedBy": "Bike Club ",
-      "postedOn": "5 hours ago",
-      "specialDate": ""
-    },
-    {
-      "id": "1",
-      "activityType": 4,
-      "profileImg": "https://picsum.photos/200/200",
-      "name": "Thomas Hook",
-      "requestType": "Event updated",
-      "content": {
-        "text": "A Venture Registered Group that can ask the group to specifically pray for them.",
-        "imgUrl": "",
-        "audioUrl": "https://picsum.photos/seed/picsum/200/300",
-        "videoUrl": ""
-      },
-      "organisedBy": "",
-      "postedOn": "feb 20",
-      "specialEvent": "Michael JR Birthday"
+      "viewType": 3,
+      "data": {
+        "activity": [
+          {
+            "id": "1",
+            "activityType": 1,
+            "profileImg": "https://picsum.photos/200/200",
+            "name": "Tami Senner",
+            "requestType": "Group",
+            "content": {
+              "text": "O my God, I firmly believe that you are one God in three divine Persons, Father, Son, and Holy Spirit.",
+              "imgUrl": "",
+              "audioUrl": "",
+              "videoUrl": ""
+            },
+            "organisedBy": "Bike Club · Prayer Team",
+            "postedOn": "2 minutes ago",
+            "specialDate": ""
+          },
+          {
+            "id": "1",
+            "activityType": 2,
+            "profileImg": "https://picsum.photos/200/200",
+            "name": "Tami Senner",
+            "requestType": "Person",
+            "content": {
+              "text": "",
+              "imgUrl": "",
+              "audioUrl": "https://dl.espressif.com/dl/audio/ff-16b-2c-44100hz.mp3",
+              "videoUrl": ""
+            },
+            "organisedBy": "Bike Club · Prayer Team",
+            "postedOn": "5 hours ago",
+            "specialDate": ""
+          },
+          {
+            "id": "1",
+            "activityType": 3,
+            "profileImg": "https://picsum.photos/200/200",
+            "name": "Ricardo S.",
+            "requestType": "",
+            "content": {
+              "text": "",
+              "imgUrl": "",
+              "audioUrl": "",
+              "videoUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+            },
+            "organisedBy": "Bike Club ",
+            "postedOn": "5 hours ago",
+            "specialDate": ""
+          },
+          {
+            "id": "1",
+            "activityType": 4,
+            "profileImg": "https://picsum.photos/200/200",
+            "name": "Thomas Hook",
+            "requestType": "Event updated",
+            "content": {
+              "text": "A Venture Registered Group that can ask the group to specifically pray for them.",
+              "imgUrl": "",
+              "audioUrl": "https://picsum.photos/seed/picsum/200/300",
+              "videoUrl": ""
+            },
+            "organisedBy": "",
+            "postedOn": "feb 20",
+            "specialEvent": "Michael JR Birthday"
+          }
+        ]
+      }
     }
   ]
 }
